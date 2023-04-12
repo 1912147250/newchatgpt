@@ -11,10 +11,10 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `Powered by CheZ Vercel
-- 如果本项目对你有所帮助，可以给小猫打赏 [买点零食](https://chez-1302520615.cos.ap-nanjing.myqcloud.com/tmp_3c4d17f9401534caa6dd25bc4136734c67501a89a1745aab.jpg)，所有打赏用于网站维护。
-- 特感谢 [OpenAI API (gpt-3.5-turbo)]提供支持。
-- 本网站由快雪空空熊部署 
-- [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
+- 感谢各位的访问本站由4.12日起为demo站点↓
+- 由于本站维护成本较大并不太好负担本站依然免费使用如若出现问题请耐心等待或联系站长获取稳定版[买点零食](https://chez-1302520615.cos.ap-nanjing.myqcloud.com/tmp_f1d56f5ca34cab3245d2b48a2c84406dca1a5432c61ce397.jpg)
+- 特感谢[5 OpenAI APl(gpt-3.5-turbo)]提供支
+- 开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
 
 export type Setting = typeof defaultSetting
 
