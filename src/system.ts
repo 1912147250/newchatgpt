@@ -12,7 +12,7 @@ export const defaultSetting = {
 
 export const defaultMessage = `Powered by CheZ Vercel
 - 感谢各位的访问
-- 由于有人恶意刷取本站token，所以进行维护暂时关闭，后续开放时间请扫码上方二维码进入交流群
+- 由于有人恶意刷取本站token，所以进行维护暂时关闭，后续开放时间请进入交流群[加入交流群](https://cznm-1302520615.cos.ap-nanjing.myqcloud.com/tmp_0a3e572d3aeb8f91f7027a6c4a7c2bf73fd0d9bc00f8c8dc.jpg)，
 
 export type Setting = typeof defaultSetting
 
