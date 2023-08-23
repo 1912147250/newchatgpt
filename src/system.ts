@@ -11,8 +11,8 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `CheZai KuaiXue
-- 由于本站被人恶意刷取token，所以进行填写密码使用，请进入交流群免费获取密码[加入群聊](https://cznm-1302520615.cos.ap-nanjing.myqcloud.com/tmp_0a3e572d3aeb8f91f7027a6c4a7c2bf73fd0d9bc00f8c8dc.jpg)
-- 有任何建议和合作请联系9371839@gmail.com，由于本站点使用用户较多，如卡顿可以选择购买使用升级版[点击购买](http://fk.chez1.cn/)
+- 关注不迷路，定时免费送官网账号，独享账号全网最低，个位数[点击关注](https://bktx-1302520615.cos.ap-nanjing.myqcloud.com/20230823133749.jpg)
+- 有任何建议和合作请联系9371839@gmail.com，由于本站点使用用户较多，如卡顿可以选择购买使用升级版[点击购买](http://fk.chez1.cn/)【已关闭 联系管理员购买】
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部`
 
 export type Setting = typeof defaultSetting
